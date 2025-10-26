@@ -6,5 +6,5 @@ Desarrollado en el **Laboratorio de desarrollo de aplicaciones ambientales satel
 - Buenos Aires.
 - Argentina.
 
-(Geographic Software Design)[https://www.youtube.com/watch?v=se4v1DSvpKg&list=PLAxJ4-o7ZoPePd9h8xT_Kc38UP_9GHdbk&index=7]
+[Geographic Software Design](https://www.youtube.com/watch?v=se4v1DSvpKg&list=PLAxJ4-o7ZoPePd9h8xT_Kc38UP_9GHdbk&index=7)
 
